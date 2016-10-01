@@ -8,6 +8,7 @@ Possibility to keep the commits to the repository neat and tiny.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By git add only the wanted files. Or git rm again if mind has changed.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
