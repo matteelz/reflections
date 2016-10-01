@@ -19,6 +19,9 @@ They show parents and branches to make it obvious which commits are where and wh
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Git checks which lines were added or changed compared to the original versions
+as well as each branch and adds the lines that were added, but not those that
+an author removed.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
