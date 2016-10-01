@@ -25,3 +25,5 @@ an author removed.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+It merges without hastle and if there are conflicts, they are clearly shown
+in the respective file.
