@@ -15,6 +15,7 @@ organized? How would branches help?
 Sideprojects, experimental additions etc.
 
 How do the diagrams help you visualize the branch structure?
+They show parents and branches to make it obvious which commits are where and why.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
