@@ -7,8 +7,10 @@ Saving time and bandwidth, also focussing on only important commits avoid spam.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+Forks to change an existing project for my own purposes and/or to work on with a
+friend without bothering the initial author.
+Clones to work on my local machine.
+Branches for trying out new features that might or might not make it into the master.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
